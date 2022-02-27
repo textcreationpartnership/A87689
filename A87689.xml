@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kentish conspiracy: or, An order and narration declaring the late plot for the surprizing of Dover castle: and the setting on foot of a commission of array in the county of Kent. Taken and extracted out of the examination of the severall conspirators. Published by order of the committee at Alesford, Janua. 9. 1645.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87689</idno>
+            <idno type="STC">Wing K322</idno>
+            <idno type="STC">Thomason E25_6</idno>
+            <idno type="STC">ESTC R17205</idno>
+            <idno type="EEBO-CITATION">99860159</idno>
+            <idno type="PROQUEST">99860159</idno>
+            <idno type="VID">112268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112268)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E25[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kentish conspiracy: or, An order and narration declaring the late plot for the surprizing of Dover castle: and the setting on foot of a commission of array in the county of Kent. Taken and extracted out of the examination of the severall conspirators. Published by order of the committee at Alesford, Janua. 9. 1645.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Cotes, for Michael Spark, Junior,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: The 5 in the imprint date is crossed out ; "1644"; "Jan: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  England --  Kent --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112268:1" rendition="simple:additions"/>
+            <p>THE Kentish Conſpiracy: OR, AN ORDER and NARRATION Declaring The late Plot for the Surprizing of <hi>DOVER CASTLE:</hi>
+            </p>
+            <p>And the ſetting on foot of a Commiſſion of ARRAY in the County of <hi>KENT.</hi>
+            </p>
+            <p>Taken and extracted out of the Examination of the ſeverall Conſpirators.</p>
+            <p>
+               <hi>Publiſhed by Order of the Committee at</hi> Ales<g ref="char:EOLhyphen"/>ford, <hi>Janua.</hi> 9. 1645.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Cotes,</hi> for <hi>Michael Spark, Junior.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:112268:2"/>
+            <pb n="1" facs="tcp:112268:2"/>
+            <head>AT THE Generall Committee AT ALESFORD, 1 <hi>January,</hi> 1644.</head>
+            <p>
+               <seg rend="decorInit">S</seg>
+               <g ref="char:V">Ʋ</g>ch hath been the reſtleſſe ſpi<g ref="char:EOLhyphen"/>rit of Malignity in ſome a<g ref="char:EOLhyphen"/>mongſt us, as if they meant to out-vie the manifold provi<g ref="char:EOLhyphen"/>dence and goodneſſe of God by an unwearyed reiteration of new experiments, whether the Watchman of <hi>Iſrael</hi> bee yet awake, for the protection and pre<g ref="char:EOLhyphen"/>ſervation of his people: from which Atheiſti<g ref="char:EOLhyphen"/>call
+<pb n="2" facs="tcp:112268:3"/>principle, ungodly and unreaſonable men, have rouſed up their almoſt deſpairing ſpirits, to new and more vigorous actings of their miſ<g ref="char:EOLhyphen"/>chiefe. And hence was it that notwithſtanding the manifeſt hand of God in diſcovering their former wickedneſſes, and bringing them upon their owne heads, once and againe in this Coun<g ref="char:EOLhyphen"/>ty, and in other parts of the Kingdome;</p>
+            <p>Yet hath not the feare of God or man wrought upon them to deſiſt: witneſſe this laſt deſigne for the betraying of <hi>Dover</hi> Caſtle, and the ſetting on foot of Commiſſions of Array, whereby they were not afraid to imbroyle this County, as they have done the reſt of the Kingdome in a moſt cruell, unnaturall and bloody war: The preven<g ref="char:EOLhyphen"/>ting whereof, by the mercy and goodneſſe of Al<g ref="char:EOLhyphen"/>mighty God, who hath ſtill brought to light the hidden things of darkneſſe, and hath yet gra<g ref="char:EOLhyphen"/>ciouſly lengthened out our tranquillity and peace, doth call aloud unto us, for our unfained thank<g ref="char:EOLhyphen"/>fulneſſe, and praiſe to the God of our Delive<g ref="char:EOLhyphen"/>rances, wherein this Committee, in regard of that publick Truſt, which lies upon them, be<g ref="char:EOLhyphen"/>ing ſenſible, how deepely they are concerned, to ſtirre up themſelves and others, have Ordered as followeth.</p>
+            <pb n="3" facs="tcp:112268:3"/>
+            <p>That upon the Lords day, being the ſix and twentyeth day of this inſtant <hi>Ianuary,</hi> in the morning before the Sermon, the Miniſters of the ſeverall Pariſhes throughout this County ſhall openly read this Order and Narration of the late deſigne, and of the diſcovery thereof, here<g ref="char:EOLhyphen"/>unto annexed, and ſhall lay open unto the people the vileneſſe of the ſame, and the miſeries and calamities which would inevitably have follow<g ref="char:EOLhyphen"/>ed, if God had ſuffered it to take effect: And ſhall withall preſently after the reading of this Order, and the ſaid Narration, openly declare their own abhorring of the ſaid Plot, and de<g ref="char:EOLhyphen"/>teſtation againſt it.</p>
+            <p>And to the end that the people likewiſe may not bee wholly wanting in ſome viſible teſtimo<g ref="char:EOLhyphen"/>ny of their thankefulneſſe for this Deliverance, and of their abhorring and deteſtation of this wickedneſſe; It is deſired, that at ſuch time as the Miniſter ſhall ſo declare himſelfe; All, who are of a willing minde then preſent, doe in token of joyning with the Miniſter, ſtand up from their ſeates.</p>
+            <p>And it is further Ordered that the ſeverall Miniſters doe often upon the Lords day, and at other times, but more ſpecially upon that day,
+<pb n="4" facs="tcp:112268:4"/>take occaſion, both in their Prayers and Ser<g ref="char:EOLhyphen"/>mons, to prayſe God, as for all former Diſcove<g ref="char:EOLhyphen"/>rings, and Defeatings of Plots, and miſchiefes intended to this County, during this preſent Parliament, ſo in particular for the Diſcove<g ref="char:EOLhyphen"/>ring and Defeating of this by name; and that they doe hence likewiſe take occaſion to ſtirre up the people, as to all Christian duties anſwera<g ref="char:EOLhyphen"/>ble to ſuch mercies, ſo particularly to a conſtant adhering to the Cauſe of God, in the preſent work of Reformation, and in the juſt defence of the Subjects Liberties, and to inform the people throughly, that in compariſon of theſe things, their eſtates and lives, which they owe to God, and to their Country, ought not to bee valued or eſteemed by them; And whereas di<g ref="char:EOLhyphen"/>vers ignorant perſons, not knowing the danger and penalties in the ſeverall Ordinances of Par<g ref="char:EOLhyphen"/>liament, have been made inſtruments of this and the like miſchiefes, by carrying, and bringing Intelligence, Meſſages, or Letters to or from <hi>Oxford,</hi> or any part of the Enemies Quarters, All perſons are therefore hereby required to take notice at their perils, that whoſoever ſhall here<g ref="char:EOLhyphen"/>after bee found culpable in that kinde, ſhall bee dealt withall as a Spye, according to the ſeve<g ref="char:EOLhyphen"/>reſt
+<pb n="5" facs="tcp:112268:4"/>puniſhments inflicted by the ſaid Ordinan<g ref="char:EOLhyphen"/>ces: and the Church-wardens of the ſeverall Pariſhes are hereby required by the Thurſday next following the ſaid Lords day appointed, as aforeſaid, for the publication and execution of this Order, to bring in returnes under their hands unto the next Deputy Lieutenant, there<g ref="char:EOLhyphen"/>by certifying how this preſent Order hath been executed in their ſeverall Pariſh Churches, and by what Miniſter: And it is Ordered, that the ſaid Deputy Lieutenants doe within eight dayes after the receipt of the ſaid Certificates, ſend in the ſame unto this Committee, or doe certifie the names of ſuch Church-wardens who ſhall make default of bringing in unto them the ſaid Re<g ref="char:EOLhyphen"/>turnes, that ſo a due Accompt may bee taken thereof, as is requiſite in a matter of ſo great importance.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:112268:5"/>
+            <pb n="7" facs="tcp:112268:5"/>
+            <head>A BRIEFE NARRATION Of the late PLOT: FOR The Surprize of <hi>Dover</hi> Caſtle; and the ſetting on foot of a Commiſſion of <hi>Array</hi> in the County of <hi>Kent:</hi> taken and extracted out of the Examinations of the ſeverall Conſpiratours; and publiſhed by Or<g ref="char:EOLhyphen"/>der of the Committee of the ſaid County.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Caſtle of <hi>Dover</hi> being about two yeeres ſince poſſeſt by Mr. <hi>Daux</hi> of <hi>Dover</hi> to the uſe of the Par<g ref="char:EOLhyphen"/>liament, hee probably not finding his expectations of preferment an<g ref="char:EOLhyphen"/>ſwered by that ſubordinate charge which was committed to him un<g ref="char:EOLhyphen"/>der a worthy Knight and Member of the Houſe of
+<pb n="8" facs="tcp:112268:6"/>Commons, bethought himſelfe of making a Party in the Towne and Caſtle; and of holding the Caſtle for the King, and to this end communicates his Counſels to one <hi>Chandler Belton, Dennis Tillet,</hi> and others of <hi>Do<g ref="char:EOLhyphen"/>ver,</hi> whom hee made choice of as fit inſtruments for that purpoſe.</p>
+            <p>But this deſigne ſoone proved abortive by diſ<g ref="char:EOLhyphen"/>covery, neither was the firſt Contriver of it, <hi>Daux,</hi> much longer lived.</p>
+            <p>Yet had this project taken ſuch impreſſion in the ſurviving Confederates, that they reſolve to carry on the worke: To which end they aſſociate to them, <hi>Tomkins, Startup, Bray, Stoakes, Wellard,</hi> Mr. <hi>Thomas Graunt,</hi> and others of <hi>Dover,</hi> and the parts adjacent. And after ſeverall conſultations, at length reſolved to ſend <hi>Bray</hi> to <hi>Oxford</hi> about Midſummer laſt, for further directions and advice from thence: <hi>Bray</hi> undertakes the journey in the Habiliments of his profeſſion, and with his Carpenters rule and leathern apron, eaſily paſſeth the Courts of Guard, without being ſuſpected any where of any further Journey then to, or from the next neighbouring Towne or Village, to his worke or home.</p>
+            <p>
+               <hi>Bray</hi> thus got to <hi>Oxford,</hi> makes himſelfe and his buſineſſe known to Captaine <hi>John Jacob</hi> late of <hi>Dover,</hi> and by him gaines acceſſe to Sir <hi>Edward Nicholas,</hi> his Majeſties chiefe Secretary of State, to whom hee im<g ref="char:EOLhyphen"/>parts his Errand; which the Secretary very well ap<g ref="char:EOLhyphen"/>proves of, but for the preſent adviſed to deferre it, till his Majeſties neerer approach to theſe <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> he being then with his Army about <hi>Buckingham.</hi>
+            </p>
+            <p>With this anſwer <hi>Bray</hi> returnes to <hi>Dover,</hi> but is up<g ref="char:EOLhyphen"/>braided by his companions there, as having cheated
+<pb n="9" facs="tcp:112268:6"/>them of their moneys, which they had collected among themſelves to beare his charges: To cleere himſelfe from which aſperſion he undertakes three ſeverall jour<g ref="char:EOLhyphen"/>neys more ſucceſſively to <hi>Oxford,</hi> but all without effect; his Majeſty being not all that while returned.</p>
+            <p>In this interim thoſe at home had gained to their party, ſome Gentlemen of Note and ſubſtantiall Yeo<g ref="char:EOLhyphen"/>men in and about <hi>Dover,</hi> and others of meaner ranke, to the number of ſixty or thereabout, ſome of whom they thought fit to bee intruſted with the more ſpeci<g ref="char:EOLhyphen"/>all contrivance and manage of the buſineſſe, who had by this time projected it as followeth.</p>
+            <p>
+               <hi>Startup, Hayes</hi> and others ſhould have uſed meanes to be entertained as Souldiers in the Caſtle, who at a time appointed, ſhould have a merry day with the other Centinells and Souldiers, at the drinking of ſome bot<g ref="char:EOLhyphen"/>tles of wine, to be ſent in as a preſent to them by Mr. <hi>Graunt,</hi> the operation of which Wine to be com<g ref="char:EOLhyphen"/>pounded by Mr. <hi>Graunt</hi> himſelfe, ſhould have been to caſt ſuch as drunk of it into a ſleep for ſix houres ſpace, but if this failed, whilſt the reſt were at their cups, the new come Souldiers ſhould have let in a Party, ſome with ſcaling ladders, to be provided againſt the time, and others at the <hi>Barbicans,</hi> a ſally Port, neere one of the Platformes: At which inſtant the Priſoners in the Caſtle, by the helpe of a falſe key, which was made by one <hi>Onion</hi> formerly the Caſtle Smith, and was in the hands of one Colonell <hi>Haggaſter,</hi> a Papiſt, then a Priſoner; ſhould have broken out upon the Souldiers, and together with the reſt have ſeized upon the Guns and Guard: At which time likewiſe a ſufficient ſtrength from the Town and neighbouring parts, ſhould be rea<g ref="char:EOLhyphen"/>dy for an entrance: And upon an advertiſement ſup<g ref="char:EOLhyphen"/>plies
+<pb n="10" facs="tcp:112268:7"/>of Ammunition and proviſion ſhould bee ſent in from <hi>Dunkerk</hi> &amp; from <hi>France,</hi> for which Mr. <hi>Web</hi> Secre<g ref="char:EOLhyphen"/>tary to the Duke of <hi>Riehmond,</hi> had ingaged himſelf, as did likewiſe Captain <hi>Jacob,</hi> to bee in a readines at <hi>Mar<g ref="char:EOLhyphen"/>gate,</hi> with a veſſell fraught with neceſſaries for the Ca<g ref="char:EOLhyphen"/>ſtle; This done, <hi>Bray</hi> ſhould poſt to <hi>Oxford</hi> with the newes, which ſhould be forthwith ſeconded by an in<g ref="char:EOLhyphen"/>vaſive power to be brought into the County under the command of Mr. <hi>Richard Thornhill</hi> now made High Sheriffe by the King, and Commander of the Earl of <hi>Clevelands</hi> Brigade of Horſe; in which interim, or rather inſtant of the ſurpriſall of the Caſtle, by the confeſſion of Captaine <hi>Jacobs</hi> brother, three Com<g ref="char:EOLhyphen"/>miſſions of Array to bee ſet on foot, and thereby the County in a flame, for a complement, of which miſchievous deſigne, nothing was now wanting but the Royall ſtampe and name to a Commiſſion, though Mr. <hi>Graunts</hi> opinion was, that delaies were dangerous, and it were better doe the worke without, or before the Commiſſion fetch't.</p>
+            <p>But this adviſe did not find reception, whereupon <hi>Bray</hi> is the fifth time diſpatch't to <hi>Oxford</hi> for a Com<g ref="char:EOLhyphen"/>miſſion, and by the way takes with him ſeverall affecti<g ref="char:EOLhyphen"/>onate recommendations, to Mr. <hi>Thornhill,</hi> Captaine <hi>Jacob,</hi> Secretary <hi>Nicholas,</hi> and others at <hi>Oxford,</hi> prime actors in this buſineſſe, from Sir <hi>Anthony Percivall,</hi> Mr. <hi>Richard Maſters</hi> of <hi>Langden,</hi> Mr. <hi>Thomas Tuck,</hi> Mr. <hi>Edward Kempe</hi> of <hi>Dover,</hi> Mr. <hi>Reading</hi> and divers o<g ref="char:EOLhyphen"/>thers in returne to ſeverall ſalutes reſpectively recei<g ref="char:EOLhyphen"/>ved by them from thoſe at <hi>Oxford</hi> by the hands of <hi>Bray,</hi> who by each of theſe Gentlemen (Mr, <hi>Kempe</hi> ex<g ref="char:EOLhyphen"/>cepted) had money given him, at his parting out of <hi>Kent,</hi> as a gratuity; or to beare his charges.</p>
+            <p>
+               <hi>Bray</hi> being come to <hi>London</hi> finds out Captaine <hi>Col<g ref="char:EOLhyphen"/>lins</hi>
+               <pb n="11" facs="tcp:112268:7"/>being directed to him by <hi>Mr. Edward Kempe,</hi> and acquaints the Captaine with the buſineſſe; whoſe for<g ref="char:EOLhyphen"/>ward apprehenſions of it were ſuch as repreſented him at <hi>Oxford,</hi> the fitteſt man to whom the Commiſſion of Array ſhould be directed (though it were once moved that it might bee ſent downe in to the County with a blanke, that if one man ſhould refuſe, any who ſhould ac<g ref="char:EOLhyphen"/>cept it, might have his name inſerted: but this adviſe was rejected by Secretary <hi>Webb,</hi> upon this reaſon, that if the Commiſſion ſhould come into the hands of the Parli<g ref="char:EOLhyphen"/>ament by miſchance, they might then inſert whoſe name they pleaſed, and ſhew the Kings hand for what they did.)</p>
+            <p>This ſucceſſe haſteneth <hi>Bray</hi> to <hi>Boſtol</hi> houſe within ſix miles of <hi>Oxford,</hi> where Sir <hi>William Campion,</hi> Mr. <hi>Ed<g ref="char:EOLhyphen"/>ward Maſters,</hi> Captain <hi>George Kingeſly,</hi> Mr. <hi>John Trowtes,</hi> one Mr. <hi>Chute</hi> and divers other Kentiſh Gentlemen, re<g ref="char:EOLhyphen"/>ceive him gladly, Sir <hi>William</hi> himſelfe, and one Mr. <hi>Mills</hi> a <hi>Suſsex</hi> Miniſter accompanying him to <hi>Oxford,</hi> where they bring him to Secretary <hi>Webb</hi> who forthwith repaires to Secretary <hi>Nicholas,</hi> and ſpeeds the draught of the Commiſſion againſt the next morning; at which time Secretary <hi>Nicholas</hi> brings <hi>Bray</hi> within view of his Majeſtie, when he preſented to him the Commiſſion to be ſigned, and the ſame day, being the 29 of <hi>November</hi> laſt, diſmiſſed <hi>Bray</hi> with the Commiſſion under hand and ſeale.</p>
+            <p>
+               <hi>Bray</hi> thus armed returnes to <hi>London,</hi> and applies him<g ref="char:EOLhyphen"/>ſelfe againe to Captaine <hi>Collins,</hi> who whether touch't in conſcience at the horridneſſe of the enterprize, or doubting the ſucceſſe, or indeed (as he pretended) that his baile upon whoſe ſecurity he enjoyed his inlarge<g ref="char:EOLhyphen"/>ment out of Priſon might not be brought in trouble, declined the Commiſſion; yet wiſht that the buſineſſe night proceed.</p>
+            <pb n="12" facs="tcp:112268:8"/>
+            <p>The Commiſſion thus waived by Captain <hi>Collins;</hi> and <hi>Bray,</hi> returned to <hi>Dover,</hi> at a full meeting of the Conſpirators, the Commiſſion is tendred to Cap<g ref="char:EOLhyphen"/>taine <hi>Holman,</hi> whoſe cheerefull reſolute acceptance, addes new life unto the buſineſſe; three dayes after, Captaine <hi>Holman,</hi> whether upon any intimation of the diſcovery of the Plot, (which indeed the Providence of God had brought to light, by the free and volun<g ref="char:EOLhyphen"/>tary confeſſion of one whoſe heart God had touch<g ref="char:EOLhyphen"/>ed, ſo as to make it his very errand to come to <hi>Ales<g ref="char:EOLhyphen"/>ford,</hi> and reveale the whole deſigne to the Commit<g ref="char:EOLhyphen"/>tee there) or whether the hand of God had over-pow<g ref="char:EOLhyphen"/>ered the ſpirit of this new elected Captaine; who con<g ref="char:EOLhyphen"/>feſſed himſelfe reſtleſſe in his thoughts while hee kept the Commiſſion for three dayes ſpace; Hee returnes to his Companions and diſchargeth his hands and pockets of the Commiſſion, but not his heart of the villany intended, which hee ſtill kept cloſe without diſcovery; This ill <hi>Omen</hi> of two failing Captaines notwithſtanding, the Conſpirators proceed, and in<g ref="char:EOLhyphen"/>courage one another upon the ſtrength of the Com<g ref="char:EOLhyphen"/>miſſion, and hopes of a riſing party, and ceaſed not riding up and down the Country, to incite their ad<g ref="char:EOLhyphen"/>herents to an open avowance of their authority and enterprize, untill the certaine newes was ſpread of the ſurprize of the Commiſſion, and commitment of thoſe Gentlemen on whom they fixt their expectati<g ref="char:EOLhyphen"/>ons to head the party, ſo that now all hopes cut off, they bethink themſelves where to ſhrowd their heads, and to ſit down with ſhame and ſorrow, and a conſci<g ref="char:EOLhyphen"/>ous expectation of being found out by the hand of Ju<g ref="char:EOLhyphen"/>ſtice, which can onely vindicate the honour, and ſecure the peace, both of Parliament and County.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112268:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
